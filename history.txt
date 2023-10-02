@@ -1,0 +1,500 @@
+    6  git add .
+    7  git commit -m 'gem github pages'
+    8  bundle exec jekyll serve
+    9  rvm use ruby-2.7
+   10  bundle exec jekyll serve
+   11  git add .
+   12  git commit -m 'pages'
+   13  git push
+   14  bundle exec jekyll build
+   15  git add .
+   16  git commit -m 'pages url'
+   17  git push
+   18  git add .
+   19  git commit -m 'image path'
+   20  git push
+   21  git add .
+   22  git commit -m 'css path'
+   23  git push
+   24  git add .
+   25  git commit -m 'again'
+   26  git push
+   27  git add .
+   28  git commit -m 'apostrophe'
+   29  git push
+   30  git add .
+   31  git commit -m 'url switch'
+   32  git push
+   33  git add .
+   34  git commit -m 'https'
+   35  git push
+   36  git add .
+   37  git commit -m 'image path 2'
+   38  git push
+   39  cd ~
+   40  cd Desktop/
+   41  pip3 install ia
+   42  pip3 install internetarchive
+   43  ia
+   44  ia download 20041205013054
+   45  ia list 20041205013054
+   46  ls
+   47  wget https://web.archive.org/web/20041205013054/http://argentina.indymedia.org/features/buenosaires/
+   48  wget https://archivo.argentina.indymedia.org/archives/archive_display_by_date.php?category_id=31&page=75[B[A
+   49  wget 'Redirecting output to ‘https://archivo.argentina.indymedia.org/archives/archive_display_by_date.php?category_id=31&page=75'
+   50  wget "https://archivo.argentina.indymedia.org/archives/archive_display_by_date.php?category_id=31&page=75"
+   51  mkdir indymedia
+   52  cd indymedia/
+   53  wget -r https://archivo.argentina.indymedia.org/archives
+   54  wget -r https://archivo.argentina.indymedia.org/archives/
+   55  wget -i urls.txt
+   56  wget -i urls.txt
+   57  wget -i urls.txt --limit-rate=100k
+   58  clear
+   59  pwd
+   60  cd ~/Desktop
+   61  ls
+   62  cd indymedia
+   63  ls
+   64  cd .. 
+   65  wget https://www.wlu.edu
+   66  cd indymedia
+   67  wget https://archivo.argentina.indymedia.org/
+   68  wget -r https://archivo.argentina.indymedia.org/news/?keyword=&author=&display=&year=&month=&day=&medium=&language_id=&category=31&sort=&limit=200
+   69  wget -r https://archivo.argentina.indymedia.org/news/2010/03/
+   70  wget -r https://archivo.argentina.indymedia.org/news/2010/03
+   71  wget
+   72  wget --help
+   73  wget wlu.edu
+   74  cd Documents/DH/hda/
+   75  ls
+   76  git status
+   77  git add .
+   78  git commit -m 'b update'
+   79  git push
+   80  git add .
+   81  git status -m 'b updates per LZM'
+   82  git commit -m 'B updates per LZM'
+   83  git push
+   84  git add .
+   85  git commit -m 'B translation LZM'
+   86  git push
+   87  rve use ruby-2.7
+   88  rvm use ruby-2.7
+   89  bundle exec jekyll serve
+   90  jekyll serve
+   91  cd ..
+   92  cd proceedings
+   93  bundle exec jekyll serve
+   94  bundle install
+   95  rvm use ruby-2.7
+   96  jekyll serve
+   97  bundle install
+   98  gem install bundler:1.13.6
+   99  bundle install
+  100  gem install ffi -v '1.9.18'
+  101  bundle exec jekyll serve
+  102  node --version
+  103  cd ..
+  104  mkdir eleventy-sample
+  105  cd eleventy-sample/
+  106  npm init -y
+  107  npm install @11ty/eleventy --save-dev
+  108  npx @11ty/eleventy
+  109  echo '<!doctype html><title>Page title</title><p>Hi</p>' > index.html
+  110  echo '# Page header' > README.md
+  111  npx @11ty/eleventy
+  112  npx @11ty/eleventy --serve
+  113  cd ..
+  114  cd hda
+  115  git add .
+  116  git commit -m 'B updates per LZM'
+  117  git push
+  118  ruby
+  119  ruby -v
+  120  cd ..
+  121  ls
+  122  cd proceedings
+  123  rvm use ruby-2.7
+  124  bundle exec jekyll serve
+  125  bundle install
+  126  bundle exec jekyll serve
+  127  cd ../eleventy-sample/
+  128  npx @11ty/eleventy
+  129  npx @11ty/eleventy --serve
+  130  cd ..
+  131  git clone https://github.com/mandrasch/11ty-plain-bootstrap5.git
+  132  cd 11ty-plain-bootstrap5/
+  133  npx @11ty/eleventy --serve
+  134  npm install -g npm@9.8.0
+  135  npx @11ty/eleventy --serve
+  136  npm install
+  137  npm install -g npm@9.8.0
+  138  npm install -g npm@9.8.0
+  139  npm install
+  140  npx @11ty/eleventy --serve
+  141  npx @11ty/eleventy --build
+  142  npx @11ty/eleventy
+  143  npx @11ty/eleventy --serve
+  144  npm run serve
+  145  npm run
+  146  npm run dev
+  147  cd ..
+  148  ls
+  149  cd proceedings
+  150  cd ..
+  151  cd hda
+  152  git status
+  153  git add .
+  154  git commit -m 'B updates per LZM'
+  155  git push
+  156  cd Documents/DH/
+  157  ruby -v
+  158  cd ..
+  159  cd DH/hda
+  160  rvm use ruby-2.7
+  161  jekyll sere
+  162  jekyll serve
+  163  bundle exec jekyll serve
+  164  bundle install
+  165  bundle exec jekyll serve
+  166  bundle exec jekyll serve
+  167  git add .
+  168  git commit -m 'update TEI links'
+  169  git push
+  170  cd Documents/DH
+  171  ls
+  172  cd CETEIcean/
+  173  git pull
+  174  cd Documents/DH
+  175  ls
+  176  git clone
+  177  git clone https://github.com/robertlove/jekyll-bootstrap.git
+  178  cd ..
+  179  cd DH/digital-editions/
+  180  jekyll serve
+  181  gem install bundler
+  182  bundler instsall
+  183  bundler install
+  184  jekyll serve
+  185  bundle exec jekyll serve
+  186  bundle install
+  187  gem install jekyll
+  188  ruby -v
+  189  gem install openssl
+  190  bundle exec jekyll serve
+  191  jekyll serve
+  192  bundle install
+  193  gem install eventmachine
+  194  gem install eventmachine
+  195  gem install eventmachine -v '1.2.7' -- --with-ldflags="-Wl,-undefined,dynamic_lookup"
+  196  jekyll serve
+  197  bundle install
+  198  gem install eventmachine -v '1.2.7' -- --with-ldflags="-Wl,-undefined,dynamic_lookup"
+  199  brew --prefix openssl
+  200  bundle config build.eventmachine --with-openssl-dir=$(brew --prefix openssl)
+  201  bundle config build.eventmachine --with-cppflags=-I$(brew --prefix openssl)/include
+  202  bundle
+  203  bundle install
+  204  brew update openssl
+  205  brew upgrade openssl
+  206  brew install openssl
+  207  bundle install
+  208  jekyll serve
+  209  bundle exec jekyll serve
+  210  gem install jekyll
+  211  bundle exec jekyll serve
+  212  bundle add webrick
+  213  bundle exec jekyll serve
+  214  bundle exec jekyll serve
+  215  bundle exec jekyll serve
+  216  bundle exec jekyll serve
+  217  cd Documents/DH/digital-editions/
+  218  bundle exec jekyll serve
+  219  git init
+  220  git status
+  221  git add .
+  222  git commit -m 'initial'
+  223  git remote -v
+  224  git remote rm origin
+  225  git remote -v
+  226  git remote add origin https://github.com/wludh/digital-editions.git
+  227  git push -u origin main
+  228  git status
+  229  git push -u origin
+  230  git push -u origin master
+  231  bundle exec jekyll serve
+  232  cd Documents/DH/digital-editions/
+  233  bundle exec jekyll serve
+  234  bundle exec jekyll serve
+  235  cd Documents/DH
+  236  npm install --global @thegetty/quire-cli
+  237  quire --version
+  238  lss
+  239  ls
+  240  npm -v
+  241  npm audit fix
+  242  npm install -g npm@9.8.1
+  243  brew upgrade npm
+  244  quire --version
+  245  quire new iliads
+  246  cd iliads
+  247  quire preview
+  248  npm install --global @thegetty/quire-cli
+  249  quire preview
+  250  npm install cjs
+  251  quire preview
+  252  git add .
+  253  git commit -m 'edition page'
+  254  git push
+  255  bundle exec jekyll build
+  256  git add .
+  257  git commit -m 'progress'
+  258  git push
+  259  bundle exec jekyll serve
+  260  bundle exec jekyll build
+  261  git add .
+  262  git commit -m 'header'
+  263  git push
+  264  bundle exec jekyll serve
+  265  cd .. hda
+  266  ls
+  267  cd hda
+  268  bundle exec jekyll serve
+  269  rvm use ruby-2.7
+  270  bundle exec jekyll serve
+  271  cd .
+  272  ls
+  273  cd ..
+  274  ls
+  275  git clone https://github.com/squidfunk/mkdocs-material.git
+  276  cd ../DCI/dci295D-f23-digitaleditions/
+  277  mkdocs serve
+  278  pip3 install minify
+  279  mkdocs serve
+  280  mkdocs build
+  281  pip install mkdocs-minify-plugin
+  282  mkdocs serve
+  283  cd Documents/DCI/dci295D-f23-digitaleditions/
+  284  mkdocs serve
+  285  pip3 install minify_html
+  286  mkdocs serve
+  287  pip install mkdocs-minify-plugin
+  288  pip3 install mkdocs-minify-plugin
+  289  mkdocs serve
+  290  mkdocs serve
+  291  cd .
+  292  ls
+  293  cd ..
+  294  cd ..
+  295  cd DH
+  296  cd hda
+  297  rvm use ruby-2.7
+  298  bundle exec jekyll serve
+  299  cd ..
+  300  ls
+  301  cd digital-editions/
+  302  bundle exec jekyll serve
+  303  rvm use ruby-3.0
+  304  bundle exec jekyll serve
+  305  cd Documents/DH/digital-editions/
+  306  bundle exec jekyll serve
+  307  bundle exec jekyll serve
+  308  cd Documents/DH/digital-editions/
+  309  bundle exec jekyll serve
+  310  cd Documents/DH/digital-editions/
+  311  bundle exec jekyll serve
+  312  cd ..
+  313  git clone https://github.com/veltman/clmystery.git
+  314  cd clmystery/
+  315  ls
+  316  cat instructions
+  317  nano crimescene
+  318  cd mystery/
+  319  ls
+  320  nano crimescene
+  321  cd Documents/DH/digital-editions/
+  322  bundle exec jekyll serve
+  323  cd ..
+  324  ls
+  325  cd ../DCI/dci295D-f23-digitaleditions/
+  326  mkdocs serve
+  327  mkdocs serve
+  328  cd Documents/DCI/dci295D-f23-digitaleditions/
+  329  mkdocs serve
+  330  mkdocs serve
+  331  mkdocs serve
+  332  mkdocs serve
+  333  mkdocs serve
+  334  mkdocs serve
+  335  mkdocs serve
+  336  mkdocs serve
+  337  mkdocs serve
+  338  mkdocs serve
+  339  mkdocs serve
+  340  mkdocs serve
+  341  cd Documents/DCI/dci295D-f23-digitaleditions/
+  342  mkdocs serve
+  343  mkdocs serve
+  344  cd Documents/DCI/dci295D-f23-digitaleditions/
+  345  mkdocs serve
+  346  mkdocs serve
+  347  mkdocs serve
+  348  sudo lsof -i:8080
+  349  sudo lsof -i:8000
+  350  mkdocs serve
+  351  cd Documents/DH/hda
+  352  rvm use ruby-2.7
+  353  bundle exec jekyll serve
+  354  bundle exec jekyll serve
+  355  git status
+  356  git add .
+  357  git commit -m 'google analytics update'
+  358  git push
+  359  git status
+  360  git add .
+  361  git commit -m 'citation date'
+  362  git push
+  363  cd Documents/DH/hda
+  364  rvm use ruby-2.7
+  365  bundle exec jekyll serve
+  366  cd Documents/DCI/dci295D-f23-digitaleditions/
+  367  mkdocs serve
+  368  mkdocs serve
+  369  git status
+  370  git add .
+  371  git commit -m 'lots'
+  372  git remote add origin https://github.com/mackenziekbrooks/dci295D-f23-digitaleditions.git
+  373  git remote
+  374  git remote -v
+  375  git remove origin
+  376  git remote remove origin
+  377  git remote -v
+  378  git remote add origin https://github.com/mackenziekbrooks/dci295D-f23-digitaleditions.git
+  379  git push
+  380  git push -u origin main
+  381  git push -u origin master
+  382  mkdocs gh-deploy
+  383  bundle exec jekyll serve
+  384  rvm use ruby-3.0
+  385  bundle exec jekyll serve
+  386  ls
+  387  jekyll sere
+  388  mkdocs serve
+  389  cd Documents/DCI/dci295D-f23-digitaleditions/
+  390  mkdocs serve
+  391  mkdocs gh-deploy
+  392  mkdocs gh-deploy
+  393  mkdocs serve
+  394  cd Documents/DCI/dci295D-f23-digitaleditions/
+  395  mkdocs serve
+  396  mkdocs gh-deploy
+  397  mkdocs serve
+  398  mkdocs gh-deploy
+  399  mkdocs gh-deploy
+  400  mkdocs serve
+  401  mkdocs gh-deploy
+  402  mkdocs gh-deploy
+  403  mkdocs gh-deploy
+  404  mkdocs gh-deploy
+  405  mkdocs serve
+  406  mkdocs gh-deploy
+  407  mkdocs gh-deploy
+  408  mkdocs gh-deploy
+  409  mkdocs gh-deploy
+  410  cd Documents/
+  411  ls
+  412  cd DCI/dci295D-f23-digitaleditions/
+  413  mkdocs gh-deploy
+  414  mkdocs gh-deploy
+  415  mkdocs gh-deploy
+  416  cd Documents/DCI/dci295D-f23-digitaleditions/
+  417  mkdocs gh-deploy
+  418  history
+  419  cd !
+  420  cd ~
+  421  cd Desktop/
+  422  history > history.txt
+  423  cd ../Documents
+  424  cd DCI/dci295D-f23-digitaleditions/
+  425  mkdocs gh-deploy
+  426  mkdocs gh-deploy
+  427  mkdocs gh-deploy
+  428  cd ~
+  429  clear
+  430  python3
+  431  pwd
+  432  ls
+  433  cd Desktop
+  434  cd ../Documents
+  435  ls
+  436  cd DCI
+  437  ls
+  438  ls
+  439  cd ..
+  440  pwd
+  441  ls
+  442  cd
+  443  cd ~
+  444  cd Desktop
+  445  cd bananas
+  446  ls
+  447  mkdir bananas
+  448  cd bananas
+  449  ls
+  450  cd ~
+  451  ls
+  452  cd Desktop/bananas
+  453  cd ..
+  454  ls -lh
+  455  ls
+  456  ls -lh
+  457  cd 
+  458  ls
+  459  cd Desktop/bananas/
+  460  touch iamcool.txt
+  461  cp iamcool.txt neat.txt
+  462  ls
+  463  less iamcool.text
+  464  ls
+  465  less iamcool.txt
+  466  cat iamcool.txt 
+  467  touch youarecool.txt
+  468  cat iamcool.txt youarecool.txt > cool.txt
+  469  ls
+  470  less cool.txt 
+  471  rm neat.txt
+  472  ls
+  473  exit
+  474  history
+  475  history
+  476  git
+  477  man
+  478  man ls
+  479  git
+  480  cd Desktop/bananas
+  481  git init
+  482  git status
+  483  git add .
+  484  git status
+  485  git commit
+  486  git commit -m 'first commit'
+  487  cd ~/Desktop/
+  488  git clone https://github.com/Toni-MarieAlibah/DCI1.git
+  489  cd DCI1
+  490  ls
+  491  cd ~/Desktop/
+  492  ls
+  493  wget http://www.gutenberg.org/files/2600/2600-0.txt
+  494  cd !
+  495  mkdir ProgHist-Text
+  496  cd ProgHist-Text/
+  497  wget http://www.gutenberg.org/files/2600/2600-0.txt
+  498  ls -lh
+  499  open 2600-0.txt 
+  500  cat 2600-0.txt
+  501  cd Desktop/bananas
+  502  git status
+  503  git remote -v
+  504  history
+  505  history > history.txt
